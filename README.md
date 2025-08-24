@@ -26,7 +26,7 @@ cd fake-currency-detection
 
 
 
-### Dataset
+## Dataset
 You can use publicly available datasets or create your own by scanning genuine and fake currency notes. 
 Make sure to organize them into labeled folders like:
 /dataset
