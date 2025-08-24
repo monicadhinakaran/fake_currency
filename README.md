@@ -19,10 +19,9 @@ This tool helps automate the detection of counterfeit currency by analyzing scan
 - scikit-learn / TensorFlow / Keras (depending on your model)
 - Matplotlib / Seaborn (for visualization)
 
-##🚀 Installation
+### 🚀 Installation
 git clone https://github.com/yourusername/fake-currency-detection.git
 cd fake-currency-detection
-pip install -r requirements.txt
 
 
 
